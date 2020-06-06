@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EnAnek</string>
+
+    <string name="photo_url">https://farm%1s.staticflickr.com/%2s/%3s_%4s.jpg</string>
+</resources>
